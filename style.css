@@ -1,0 +1,67 @@
+body {
+    background-color:dimgray;
+    
+}
+#welcome{
+    background: cadetblue;
+}
+
+.options {
+    min-height: 9em;
+    padding:  0;
+    color: oldlace;
+    
+  }
+.opt-header{
+    margin-bottom: 1em;
+    
+}
+.opt-body{
+    width: 100%;
+    font-weight: 600;
+}
+.option1.opt-header {
+    background: url(images/DSC00190.JPG);
+    background-color: lightsteelblue;
+    background-size: 230% ;
+    background-position: left;
+    min-height: 9em;
+    width: 100%;
+     background-blend-mode: multiply;
+}
+
+.option2.opt-header {
+    background: url(images/Ingrss_Csndra_NYC-023.jpg);
+    background-color: cadetblue;
+    background-size: 100% ;
+    background-position: left;
+    min-height: 9em;
+    width: 100%;
+    background-blend-mode: multiply;
+}
+.option3.opt-header {
+    background: url(images/statue-of-liberty-1001310_960_720.jpg);
+    background-color: cadetblue;
+    background-size: 100% ;
+    background-position: left;
+    min-height: 9em;
+    width: 100%;
+    background-blend-mode: multiply;
+}
+.option3.opt-body {
+    color:antiquewhite;
+    font-weight: bold;
+    padding-top: 0.25em;   
+    font-weight: 700;
+}
+.options h2{
+    color:burlywood;
+    font-weight: 600;
+}
+.sidebar {
+    background: url(images/nycr-liberty-outlined-1600x2100.png);
+    background-size:contain;
+    height: 29em;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+}
