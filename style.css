@@ -21,7 +21,7 @@ body {
     font-weight: 600;
 }
 .option1.opt-header {
-    background: url(images/DSC00190.JPG);
+    background: url(DSC00190.JPG);
     background-color: lightsteelblue;
     background-size: 230% ;
     background-position: left;
@@ -31,7 +31,7 @@ body {
 }
 
 .option2.opt-header {
-    background: url(images/Ingrss_Csndra_NYC-023.jpg);
+    background: url(Ingrss_Csndra_NYC-023.jpg);
     background-color: cadetblue;
     background-size: 100% ;
     background-position: left;
@@ -40,7 +40,7 @@ body {
     background-blend-mode: multiply;
 }
 .option3.opt-header {
-    background: url(images/statue-of-liberty-1001310_960_720.jpg);
+    background: url(statue-of-liberty-1001310_960_720.jpg);
     background-color: cadetblue;
     background-size: 100% ;
     background-position: left;
@@ -59,7 +59,7 @@ body {
     font-weight: 600;
 }
 .sidebar {
-    background: url(images/nycr-liberty-outlined-1600x2100.png);
+    background: url(nycr-liberty-outlined-1600x2100.png);
     background-size:contain;
     height: 29em;
     background-repeat: no-repeat;
