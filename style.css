@@ -58,10 +58,11 @@ body {
     color:burlywood;
     font-weight: 600;
 }
-.sidebar {
+
+/*.sidebar {
     background: url(nycr-liberty-outlined-1600x2100.png);
     background-size:contain;
     height: 29em;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-}
+}*/
