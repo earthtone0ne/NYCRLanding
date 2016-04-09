@@ -6,7 +6,7 @@ body {
     background: cadetblue;
 }
 
-.options {
+a .options {
     min-height: 9em;
     padding:  0;
     color: oldlace;
@@ -16,7 +16,7 @@ body {
     margin-bottom: 1em;
     
 }
-.opt-body{
+a .opt-body{
     width: 100%;
     font-weight: 600;
 }
@@ -48,13 +48,13 @@ body {
     width: 100%;
     background-blend-mode: multiply;
 }
-.option3.opt-body {
+a .option3.opt-body {
     color:antiquewhite;
     font-weight: bold;
     padding-top: 0.25em;   
     font-weight: 700;
 }
-.options h2{
+a .options h2{
     color:burlywood;
     font-weight: 600;
 }
